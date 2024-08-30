@@ -1,0 +1,11 @@
+---
+title: "References"
+author: "David Churchman"
+format: html
+editor: visual
+---
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

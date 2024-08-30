@@ -1,10 +1,8 @@
 ---
 title: "Introduction"
 author: "David Churchman"
-format: html
-editor: visual
 ---
 
-## Welcome {.unnumbered}
+## Preface {.unnumbered}
 
 This file must go first in the book.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Charting with Candor",
     "section": "",
-    "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.",
+    "text": "Preface\nThis file must go first in the book.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
