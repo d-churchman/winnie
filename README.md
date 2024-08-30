@@ -1,1 +1,2 @@
 # winnie
+Confirming RStudio connection

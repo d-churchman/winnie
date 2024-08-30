@@ -202,7 +202,7 @@ scatter <- ggplot(
   labs(
     title='Distribution of quotation position compared to length',
     subtitle = expression(paste('Selected characters from ',italic('Winnie-the-Pooh'),'by A.A. Milne')),
-    caption = 'Data source: Project Dialogism Novel Corpus\nGraph ©2023 David Churchman, respects to C. Wilke'
+    caption = 'Data source: Project Dialogism Novel Corpus\nGraph ©2023 David Churchman, credit to C. Wilke'
        )
 
 
