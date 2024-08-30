@@ -13,13 +13,8 @@ book:
   repo-url: https://github.com/d-churchman/winnie
   repo-branch: main
   chapters: 
-    -candor.qmd
-  '''
-    -part: super-chapter.qmd
-      chapters:
-        -sub-chapter.qmd
-  '''
-  
+    - index.qmd
+
 format:
   html:
     theme:
