@@ -1,4 +1,34 @@
 project:
+  type: book
+  
+book:
   title: "Charting with Candor"
+  reader-mode: true
+  
+  page-footer: 
+    left:
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+    right: 
+      © 2024 David Churchman
+  repo-url: https://github.com/d-churchman/winnie
+  repo-branch: main
+  chapters: 
+    -candor.qmd
+  '''
+    -part: super-chapter.qmd
+      chapters:
+        -sub-chapter.qmd
+  '''
+  
+format:
+  html:
+    theme:
+      - lux
+      - candor.scss
+    code-link: true
+    
+    author-meta: 'David Churchman'
+    callout-appearance: simple
+        
 
 editor: visual
